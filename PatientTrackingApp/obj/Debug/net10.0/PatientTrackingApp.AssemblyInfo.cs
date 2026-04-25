@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatientTrackingApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c877ee5b9e3ce99fc32e51c1b12922bea4be25b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad6193ef734e4f993cedba73b9d81f374cb5b75e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatientTrackingApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatientTrackingApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
